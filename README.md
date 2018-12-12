@@ -1,6 +1,6 @@
 # SQLiteNoteApplication
 
-In this application, We are using SQLite Database which is severless. When you setup the application, 
+In this application, We are used SQLite Database which is severless. When you setup the application, 
 SQLite will create a database on your system to create tables(Notes) on your device.
 
 ![Screenshot 1](1.jpg)
